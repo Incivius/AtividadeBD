@@ -14,12 +14,13 @@ while populacaoA <= populacaoB:
     populacaoB = (populacaoB * taxaB) + populacaoB
     anosAB += 1
 
-populacaoA = 0
+populacaoA = 15000
 
-while populacaoA <= populacaoC:
+while populacaoA <= populacaoC * 1.23:
     populacaoA = (populacaoA * taxaA) + populacaoA
     populacaoC = (populacaoC * taxaC) + populacaoC
     anosAC += 1
 
 
-print (f"Levará cerca de {anosAB} anos para que a população de A se iguale a ou ultrapasse a população B e" f"\n cerca de {anosAC} para que a população A ultrapasse a população B em 23%")
+print (f"Levará cerca de {anosAB} anos para que a população de A se iguale a ou ultrapasse a população B e"
+f"\n cerca de {anosAC} para que a população A ultrapasse a população C em 23%")
