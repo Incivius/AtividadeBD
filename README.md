@@ -2,5 +2,5 @@
 
 Essa é nossa atividade de algoritmo. 
 
-Exercicios executados por: Marcos Vinícius malaquias e Alisson
+Exercicios executados por: Marcos Vinícius malaquias e Alisson dos santos pereira
 
